@@ -1,1 +1,5 @@
 /target/
+/.classpath
+/file.txt
+/testng.xml
+/testngRegression.xml
